@@ -11,7 +11,7 @@ Cluster the top 50 words and the reverse of each of those top 50 words, *e.g., h
 - Clustering Accuracy of 65%-70%
 - Mark 10/13
 
-*For more information see the coursework2-report.pdf section Task 1(on GitHub)
+*For more information see the coursework2-report.pdf section Task 1 (on GitHub)
 
 ## Classifying
 Using the prelabelled corpus build and train a neural network model to classify positive and negative reviews. I created a bi-directional LSTM model to solve the task.
@@ -24,4 +24,4 @@ Using the prelabelled corpus build and train a neural network model to classify 
 - Accuracy of 73.4% with a low standard deviation of 0.017
 - Mark 12/12
 
-*For more information see the coursework2-report.pdf section Task 2(on GitHub)
+*For more information see the coursework2-report.pdf section Task 2 (on GitHub)
